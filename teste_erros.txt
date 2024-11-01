@@ -1,0 +1,3 @@
+ls: não foi possível abrir o diretório '/etc/cups/ssl': Permissão negada
+ls: não foi possível abrir o diretório '/etc/polkit-1/localauthority': Permissão negada
+ls: não foi possível abrir o diretório '/etc/ssl/private': Permissão negada
